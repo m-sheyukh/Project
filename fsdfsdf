@@ -1,0 +1,106 @@
+[33mcommit 4e4708e84f1a2892a643325139d332e970b11096[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mehdi <mehdi.liv3@gmail.com>
+Date:   Sun Oct 17 13:37:11 2021 +0330
+
+    add Contact page
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..efc0a8a[m
+[1m--- /dev/null[m
+[1m+++ b/about.html[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset='utf-8'>[m
+[32m+[m[32m    <meta http-equiv='X-UA-Compatible' content='IE=edge'>[m
+[32m+[m[32m    <title><Page Title></title>[m
+[32m+[m[32m    <meta name='viewport' content='width=device-width, initial-scale=1'>[m
+[32m+[m[32m    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>[m
+[32m+[m[32m    <script src='main.js'></script>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>about</h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8f2899a[m
+[1m--- /dev/null[m
+[1m+++ b/contact.html[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset='utf-8'>[m
+[32m+[m[32m    <meta http-equiv='X-UA-Compatible' content='IE=edge'>[m
+[32m+[m[32m    <title><Page Title></title>[m
+[32m+[m[32m    <meta name='viewport' content='width=device-width, initial-scale=1'>[m
+[32m+[m[32m    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>[m
+[32m+[m[32m    <script src='main.js'></script>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>contact</h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit f6febdaf1a2f6552b27c1bade4604f0016c52738[m
+Author: Mehdi <mehdi.liv3@gmail.com>
+Date:   Sun Oct 17 13:35:36 2021 +0330
+
+    Add p tag index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0f5b018..807927f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -9,6 +9,7 @@[m
+     <script src='main.js'></script>[m
+ </head>[m
+ <body>[m
+[31m-    <h1></h1>[m
+[32m+[m[32m    <h1> </h1>[m
+[32m+[m[32m    <p>bla bla bla bla</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit 1432fc4b086f852bdea63946e8fc9c10d760e1ec[m
+Author: Mehdi <mehdi.liv3@gmail.com>
+Date:   Sun Oct 17 13:30:59 2021 +0330
+
+    ADD Project to git
+
+[1mdiff --git a/css/index.html b/css/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0f5b018[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset='utf-8'>[m
+[32m+[m[32m    <meta http-equiv='X-UA-Compatible' content='IE=edge'>[m
+[32m+[m[32m    <title><Page Title></title>[m
+[32m+[m[32m    <meta name='viewport' content='width=device-width, initial-scale=1'>[m
+[32m+[m[32m    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>[m
+[32m+[m[32m    <script src='main.js'></script>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1></h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index2.html b/index2.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/js/index.html b/js/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
